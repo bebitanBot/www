@@ -1,4 +1,6 @@
 <?php
 
 this is dummy...
-	ダメって言われちゃった
+	first
+	second
+	third
