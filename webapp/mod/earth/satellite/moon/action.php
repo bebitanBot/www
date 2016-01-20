@@ -5,3 +5,5 @@ this is dummy...
 	second
 	third
 	forth
+	test close issue
+	comment lesson
