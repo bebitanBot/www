@@ -6,3 +6,4 @@ this is dummy...
 	third
 	forth
 	test close issue
+	comment lesson
