@@ -5,3 +5,4 @@ this is dummy...
 	vi
 	vie
 	view
+	¢‚Ì’†‚µ‚ñ‚Ç‚¢
