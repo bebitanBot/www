@@ -1,9 +1,9 @@
 <?php
 
-this is dummy...
-	first
-	second
-	third
-	forth
-	test close issue
-	comment lesson
+	echo "this is dummy...";
+	echo "first";
+	echo "second";
+	echo "third";
+	echo "forth";
+	echo "test close issue";
+	echo "comment lesson";
